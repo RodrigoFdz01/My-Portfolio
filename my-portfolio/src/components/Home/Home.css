@@ -70,3 +70,9 @@
     margin-top: 2em;
   }
 }
+
+@media (max-width: 274px) {
+  .cv {
+    margin: 0em;
+  }
+}

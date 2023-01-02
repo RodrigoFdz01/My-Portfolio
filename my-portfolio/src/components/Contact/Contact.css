@@ -8,12 +8,13 @@
 .center-icons li {
   font-size: 2rem;
   list-style-type: none;
-  color: rgb(148, 144, 144);
+  color: #a9a9cc;
+
   cursor: pointer;
 }
 
 .center-icons li:hover {
-  color: rgb(235, 229, 229);
+  color: #cdcdff;
 }
 
 .rights {

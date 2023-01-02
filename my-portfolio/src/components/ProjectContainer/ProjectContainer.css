@@ -15,7 +15,10 @@
 }
 
 .project .link--icon {
-  color: rgb(148, 144, 144);
+  color: #a9a9cc;
   font-size: 1.5rem;
   margin: 0.5em;
+}
+.project .link--icon :hover {
+  color: #cdcdff;
 }
