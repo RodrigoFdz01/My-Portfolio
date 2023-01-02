@@ -8,13 +8,19 @@ const Contact = () => {
       <h2 className="section__title">Contact</h2>
       <div className="center-icons">
         <li>
-          <Linkedin />
+          <a href="https://www.linkedin.com/in/fernandezrodrigoin/">
+            <Linkedin />
+          </a>
         </li>
         <li>
-          <Github />
+          <a href="https://github.com/RodrigoFdz01">
+            <Github />
+          </a>
         </li>
         <li>
-          <Envelope />
+          <a href="mailto:rodrigof3012@gmail.com">
+            <Envelope />
+          </a>
         </li>
       </div>
       <div>

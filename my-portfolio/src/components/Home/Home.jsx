@@ -1,6 +1,7 @@
 import React from "react";
 import image from "../../assets/perfil.png";
 import "./Home.css";
+import cv from "../../assets/Rodrigo Iván Fernández.pdf";
 
 const Home = () => {
   return (
@@ -11,6 +12,11 @@ const Home = () => {
         I'm looking for new opportunities to improve my skills
       </p>
       <img src={image} height="300px" alt="img" />
+      <div class="contain-cv">
+        <a href={cv} download class="cv">
+          Download CV
+        </a>
+      </div>
     </section>
   );
 };
