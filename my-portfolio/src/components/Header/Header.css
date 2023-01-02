@@ -1,0 +1,18 @@
+.header {
+  height: auto;
+  width: 95%;
+  margin-top: 0 auto;
+  justify-content: space-between;
+  /*
+  z-index: 10;
+  position: fixed;
+  backdrop-filter: blur(15px) !important;
+
+  */
+}
+
+@media (max-width: 600px) {
+  .header {
+    height: 6em;
+  }
+}

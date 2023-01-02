@@ -1,0 +1,22 @@
+.center-icons {
+  margin: auto;
+  max-width: 50%;
+  align-items: stretch;
+  display: flex;
+  justify-content: space-evenly;
+}
+.center-icons li {
+  font-size: 2rem;
+  list-style-type: none;
+  color: rgb(148, 144, 144);
+  cursor: pointer;
+}
+
+.center-icons li:hover {
+  color: rgb(235, 229, 229);
+}
+
+.rights {
+  text-align: center;
+  margin-top: 2rem;
+}
