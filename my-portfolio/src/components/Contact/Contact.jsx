@@ -24,7 +24,7 @@ const Contact = () => {
         </li>
       </div>
       <div>
-        <p className="rights">© 2022 All rights reserved | Rodrigo Fernandez</p>
+        <p className="rights">© 2023 All rights reserved | Rodrigo Fernandez</p>
       </div>
     </section>
   );
