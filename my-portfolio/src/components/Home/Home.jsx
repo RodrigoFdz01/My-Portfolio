@@ -14,7 +14,7 @@ const Home = () => {
       <img src={image} height="300px" alt="img" />
       <div class="contain-cv">
         <a href={cv} download class="cv">
-          Download CV
+          Download Resume
         </a>
       </div>
     </section>
