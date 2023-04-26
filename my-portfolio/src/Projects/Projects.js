@@ -22,11 +22,10 @@ const projects = [
     deploy: "https://weatherchannel-city.netlify.app/",
   },
   {
-    name: "Hangman",
-    description:
-      "One of the most common introductory Python projects is to code a game of Hangman",
-    code: "https://github.com/RodrigoFdz01/hangman-python",
-    deploy: "https://github.com/RodrigoFdz01/hangman-python",
+    name: "Python ETL",
+    description: "ETL on Amazon movie dataset using Python",
+    code: "https://github.com/RodrigoFdz01/Python_ETL",
+    deploy: "https://github.com/RodrigoFdz01/Python_ETL",
   },
 ];
 
